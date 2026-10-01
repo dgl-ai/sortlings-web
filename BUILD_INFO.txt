@@ -1,3 +1,3 @@
 Sortlings web build
-commit: 44264e6
+commit: 065e6b5
 branch: main
